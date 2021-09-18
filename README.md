@@ -6,5 +6,5 @@
 
 - clone this project
 - build the entire project 
-- run DateDaysDurationServerPublisher 
-- run DateDaysDurationClient;
+- run DateDaysDurationServerPublisher.java
+- run DateDaysDurationClient.java
